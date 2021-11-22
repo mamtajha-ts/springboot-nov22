@@ -1,6 +1,5 @@
 target/*
 ignore.txt
-docker-compose.yml
 .settings/*
 .classpath
 .project
